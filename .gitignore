@@ -1,0 +1,10 @@
+build/
+dist/
+*.log
+notUsefull/
+
+# just for safe
+*.class
+*.MF
+*.exe
+*jar
