@@ -48,8 +48,12 @@ Portable app runs without installing Java.
 
 ## 📥 Download
 
-Get the latest ready-to-use version here:
-👉 https://github.com/YOUR-ORG/Notebook.me/releases
+Get the latest ready-to-use version here (18.5 MB approx.):  
+👉 https://github.com/VervainLabs/notebook.me.main/releases
+ 
+Get the beta version here:  
+👉 https://github.com/Sirex-0/Notebook.me/releases/tag/Release  
+NOTE: Beta version can have faliures and bugs kindly report to us at [Discord](https://discord.gg/B3cPuWsu3u)
 
 ---
 
